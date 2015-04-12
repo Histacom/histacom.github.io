@@ -9,12 +9,23 @@ description: Histacom is a game based on the history of modern computer operatin
 author: Histacom Development Team
 author_title: Developing Histacom
 avatar: https://avatars0.githubusercontent.com/u/11248704
-follow: https://github.com/Histacom/
+follow: https://twitter.com/histacom
 language: en
 timezone: GMT
 
+# Header
+menu:
+  Home: /
+  Docs: /Docs
+  Forum: http://techshroom.com/histacom/
+
 # Disqus
 disqus_shortname: histacom
+
+# Contacts
+contacts:
+  github: https://github.com/Histacom
+  twitter: https://twitter.com/histacom
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
