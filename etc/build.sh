@@ -27,7 +27,7 @@ hexo generate
 cd public
 
 # If we're on the master branch, do deploy
-if [[ $TRAVIS_BRANCH = master ]]; then
+if [[ $TRAVIS_BRANCH = source ]]; then
     # Deploy
     git add --all .
     git commit -q -m "Deploy $(date)"
