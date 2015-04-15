@@ -8,7 +8,7 @@ subtitle:
 description: Histacom is a game based on the history of modern computer operating systems. The game features you, 12padams and TheHiddenHacker, you will time-travel through different eras, using whatever means nessacery...
 author: Histacom Development Team
 author_title: Developing Histacom
-avatar: https://avatars0.githubusercontent.com/u/11248704
+avatar: /histacomlogo.png
 follow: https://twitter.com/histacom
 language: en
 timezone: GMT
@@ -83,8 +83,3 @@ pagination_dir: page
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
 theme: icarus
-
-# Deployment
-## Docs: http://hexo.io/docs/deployment.html
-deploy:
-  type:
