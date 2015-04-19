@@ -2,18 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://histacom.github.io/2015/04/11/Histacom-1-8-5/</loc>
-    <lastmod>2015-04-15T16:14:16.759Z</lastmod>
+    <loc>http://histacom.github.io/2015/04/19/Development-begins/</loc>
+    <lastmod>2015-04-19T21:47:06.559Z</lastmod>
   </url>
   
   <url>
     <loc>http://histacom.github.io/2015/04/12/Histacom-2-0-What-to-expect/</loc>
-    <lastmod>2015-04-15T16:14:16.759Z</lastmod>
+    <lastmod>2015-04-19T21:47:06.559Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://histacom.github.io/2015/04/11/Histacom-1-8-5/</loc>
+    <lastmod>2015-04-19T21:47:06.559Z</lastmod>
   </url>
   
   <url>
     <loc>http://histacom.github.io/irc/index.html</loc>
-    <lastmod>2015-04-15T16:14:16.759Z</lastmod>
+    <lastmod>2015-04-19T21:47:06.559Z</lastmod>
   </url>
   
 </urlset>
