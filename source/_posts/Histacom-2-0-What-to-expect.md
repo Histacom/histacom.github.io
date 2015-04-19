@@ -1,6 +1,6 @@
 title: "Histacom 2.0 - What to expect"
 date: 2015-04-12 16:18:58
-tags: information
+tags: Histacom 2.0
 ---
 ###1. No more Windows!
 
